@@ -18,7 +18,7 @@
 
 ---
 
-## 🔐 **HackerOne Journey & CTF Participation**
+## 🔐 **HackerOne Journey & CTF & Challanges Participation**
 
 - **HackerOne Submissions**  
   - Participated in bug bounty programs, reported vulnerabilities to various platforms.  

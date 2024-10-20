@@ -8,9 +8,17 @@
   - Explored packet analysis using Wireshark to detect network vulnerabilities and malicious traffic.  
   - [GitHub Repo](#)
   
-- **Linux Security from the Command Line**  
-  - Secured Linux servers using core command-line tools and scripts.  
-  - [GitHub Repo](#)
+- ## 🔒 **Linux Security from the Command Line**
+
+- Secured Linux servers using core command-line tools and scripts.
+- **[GitHub Repo](#)**
+
+### Hands-on Learning:
+
+- **Command Line in Linux**  - [Certificate Link](https://coursera.org/verify/B9LBGJA1LJJ7)
+
+- **Advanced Commands in Linux** - [Certificate Link](https://coursera.org/verify/0J6H7CI9QR4S)
+
   
 - **Python & Bash Automation Scripts**  
   - Developed scripts for automating vulnerability scans and log analysis.  
@@ -50,9 +58,9 @@
     - Put It to Work: Prepare for Cybersecurity Jobs  
   - **[Certificate Link](https://coursera.org/verify/professional-cert/IGITYBLJUSJJ)**
 
-- **OWASP Top 10 - 2021**  
-  - **[Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)**
-
+- **OWASP Top 10 - 2021** - **[Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)**
+- **Google AI Essentials** - **[Certificate Link](https://coursera.org/verify/ZHPJZUVTODQ0)**
+    
 - **Upcoming/Other Certifications**  
   - Add your planned or completed certifications like Network+, Security+, CEH, etc.
 

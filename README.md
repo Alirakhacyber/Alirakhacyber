@@ -46,7 +46,7 @@
 - Automate Cybersecurity Tasks with Python
 - Connect and Protect: Networks and Network Security
 - Put It to Work: Prepare for Cybersecurity Jobs
--Tools of the Trade: Linux and SQL
+ -Tools of the Trade: Linux and SQL
 - Foundations of Cybersecurity
 - Sound the Alarm: Detection and Response
   [direct link](https://coursera.org/verify/professional-cert/IGITYBLJUSJJ)

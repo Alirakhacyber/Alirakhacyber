@@ -77,5 +77,5 @@
 ## 🌐 **Connect with Me**
 
 [<img align="left" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/ali-lotfy-ali-rakha-6451b7190)  
-[<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne](https://hackerone.com/ali_lotfy)
+[<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne (amax)](https://hackerone.com/amax)
 

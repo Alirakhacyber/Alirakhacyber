@@ -36,20 +36,25 @@
 
 - **CompTIA A+**  
   - Verified foundation in IT and cybersecurity concepts.  
+  - **[Network Certificate](https://coursera.org/verify/LLONVE5E9QCP)**  
+  - **[Cybersecurity Certificate](https://coursera.org/verify/B4X8GEYIHTGC)**  
 
-- **Other Certifications**  
-  - Add your upcoming or completed certifications like Network+, Security+, CEH, or others.
- 
-  - **Google Cybersecurity**
-   Includes: Assets, Threats, and Vulnerabilities
-- Play It Safe: Manage Security Risks
-- Automate Cybersecurity Tasks with Python
-- Connect and Protect: Networks and Network Security
-- Put It to Work: Prepare for Cybersecurity Jobs
- -Tools of the Trade: Linux and SQL
-- Foundations of Cybersecurity
-- Sound the Alarm: Detection and Response
-  [direct link](https://coursera.org/verify/professional-cert/IGITYBLJUSJJ)
+- **Google Cybersecurity Certificate**  
+  - **Modules Completed:**
+    - Assets, Threats, and Vulnerabilities
+    - Play It Safe: Manage Security Risks
+    - Automate Cybersecurity Tasks with Python
+    - Connect and Protect: Networks and Network Security
+    - Tools of the Trade: Linux and SQL
+    - Sound the Alarm: Detection and Response
+    - Put It to Work: Prepare for Cybersecurity Jobs  
+  - **[Certificate Link](https://coursera.org/verify/professional-cert/IGITYBLJUSJJ)**
+
+- **OWASP Top 10 - 2021**  
+  - **[Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)**
+
+- **Upcoming/Other Certifications**  
+  - Add your planned or completed certifications like Network+, Security+, CEH, etc.
 
   
 ---

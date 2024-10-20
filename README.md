@@ -28,6 +28,8 @@
   - Completed multiple challenges, sharpening vulnerability detection and ethical hacking skills.  
   - [Write-Ups and Walkthroughs](#)
 
+- **tryhackme Participation**
+- 
 ---
 
 ## 📜 **Certifications**

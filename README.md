@@ -61,10 +61,6 @@
 - **OWASP Top 10 - 2021** - **[Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)**
 - **Google AI Essentials** - **[Certificate Link](https://coursera.org/verify/ZHPJZUVTODQ0)**
     
-- **Upcoming/Other Certifications**  
-  - Add your planned or completed certifications like Network+, Security+, CEH, etc.
-
-  
 ---
 
 ## 👨‍💻 **Knowledge Areas**

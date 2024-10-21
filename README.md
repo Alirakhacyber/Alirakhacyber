@@ -1,12 +1,12 @@
-# Ali Lotfy  
-**Cybersecurity Professional**  
----
+# Ali Lotfy
+**Cybersecurity Professional**
 
-## 🛡️ **Cybersecurity Projects & Labs**
+## :shield: Cybersecurity Projects & Labs
 
-- **Wireshark Network Traffic Analysis Lab**  
-  - Explored packet analysis using Wireshark to detect network vulnerabilities and malicious traffic.  
-  - [GitHub Repo](#)
+### Wireshark Network Traffic Analysis Lab
+- Explored packet analysis using Wireshark to detect network vulnerabilities and malicious traffic.
+- [GitHub Repo](https://github.com/YourUsername/YourRepo)
+
   
 - ## 🔒 **Linux Security from the Command Line**
 
